@@ -13,7 +13,7 @@ Passionate Computer Science student who builds interactive web platforms with th
 ## 🔥 Featured Projects
 - **Music Library Management System** - Full-stack music library management platform
 - **Deepfake Detection** - AI-powered deepfake detection system
-- **DEAL (RFD Explanation LLM)** - Large Language Model for explaining Request for Discussion documents
+- **DEAL (Dependencies Explanation with Advanced Language Models)** - Interactive web platform for managing discovery results and dependency analysis, supported by LLMs
 
 
 ## 📫 Let's Connect
