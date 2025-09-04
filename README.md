@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Vincenzo Maiellaro
 
 ## About Me
-Passionate Computer Science student who builds interactive web platforms with the MERN stack and explores deep learning for real-world problems.
+Computer Science graduate → now pursuing an M.Sc. in Computer Science (Data Science & Machine Learning track) who builds interactive web platforms with the MERN stack and explores deep learning for real-world problems.
 
 ## 🚀 Technologies & Languages
 - **Frontend**: JavaScript, HTML, CSS, React
