@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Vincenzo Maiellaro
 
-<!--
-**VincenzoMaiellaro/VincenzoMaiellaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Passionate Computer Science student who builds interactive web platforms with the MERN stack and explores deep learning for real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Languages
+- **Frontend**: JavaScript, HTML, CSS, React
+- **Backend**: Node.js, Python, Java
+- **Mobile**: Dart, Flutter
+- **Databases**: MongoDB, MySQL
+- **ML/AI**: TensorFlow, PyTorch, Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Featured Projects
+- **Music Library Management System** - Full-stack music library management platform
+- **Deepfake Detection** - AI-powered deepfake detection system
+- **DEAL (RFD Explanation LLM)** - Large Language Model for explaining Request for Discussion documents
+
+
+## 📫 Let's Connect
+- LinkedIn: [vincenzo-maiellaro-29b8b4349](https://linkedin.com/in/vincenzo-maiellaro-29b8b4349)
+
+---
+*Always looking for new challenges and growth opportunities! 🌱*
