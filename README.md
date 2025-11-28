@@ -20,29 +20,24 @@ I bridge the gap between **scalable web infrastructure** and **advanced AI model
 
 ### 🔥 Featured Projects
 
-#### 🧠 [DEAL: GenAI Dependency Analysis Platform](LINK_AL_TUO_REPO)
+#### 🧠 [DEAL: GenAI Dependency Analysis Platform]([LINK_AL_TUO_REPO](https://github.com/VincenzoMaiellaro/DEAL_JSONifyDiscovery)||https://github.com/VincenzoMaiellaro/DEAL_RFD_Explanation_LLM_)
 *Built with React, Python, MongoDB, LLM APIs*
 > A full-stack LLM-powered platform that automates functional dependency analysis.
 - **Impact:** Reduced manual data interpretation time by **60%**.
 - **Tech:** Implemented advanced Prompt Engineering achieving **70% higher accuracy** with **<300ms** query latency.
 
-#### 🕵️ [Deepfake Detection via Facial Dynamics](LINK_AL_TUO_REPO)
+#### 🕵️ [Deepfake Detection via Facial Dynamics]((https://github.com/VincenzoMaiellaro/FVAB2024_25_Deepfake_Detection))
 *Built with Python, TensorFlow, OpenCV, Keras*
 > A novel CNN-LSTM architecture designed to analyze temporal facial movements in video.
 - **Performance:** Achieved **94.3% detection accuracy**, outperforming baseline CNN models by **20%** on high-quality datasets.
 
-#### 🧬 [Biomedical Knowledge Graph](LINK_AL_TUO_REPO)
+#### 🧬 [Biomedical Knowledge Graph](https://github.com/VincenzoMaiellaro/Biomedical_Knowledge_Graph)
 *Built with Python, SciSpacy, NetworkX*
 > NLP pipeline extracting entities from medical databases to build interactive graphs.
 - **Scale:** Integrated **96K+ biomedical entities** with **94% semantic extraction accuracy**.
 
 ---
 
-### 📊 GitHub Stats
-![Vincenzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincenzoMaiellaro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincenzoMaiellaro&layout=compact&theme=radical)
-
----
 
 ### 📫 Let's Connect
 <p align="left">
